@@ -198,9 +198,3 @@ These libraries are not part of this repository. You install them separately, an
 ## License
 
 [MIT](LICENSE) © 2026 Jan Westphal: firmware, enclosure files and documentation.
-
----
-
-<p align="center">
-  Built by <a href="https://janwestphal.dev">Jan Westphal</a>
-</p>
