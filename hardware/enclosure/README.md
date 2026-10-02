@@ -6,7 +6,7 @@
   <img src="../../docs/images/enclosure-fusion360.webp" alt="Enclosure in Fusion 360" width="560">
 </p>
 
-The case is printed in several colors: a grey main body, orange accents (speaker grille, encoder rings, key frame) and black keys and caps.
+The case is printed in several colors: a grey main body, orange accents and black caps.
 
 ## Files
 
