@@ -1,0 +1,18 @@
+# Build output
+build/
+cmake-build-*/
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE / editor
+.vscode/
+.idea/
+.claude/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
